@@ -5,7 +5,7 @@
 
 div.background_img_container1 {
   position: relative;
-  background-image:url(images/new-image.jpg);
+  background-image:url(../images/new-image.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -225,17 +225,17 @@ h5 {
 
 .card-1 {
   background: linear-gradient(rgba(57, 56, 57, 0.8), rgba(57, 56, 57, 0.8)),
-    url(new-image.jpg) no-repeat center center/cover;
+    url(../images/new-image.jpg) no-repeat center center/cover;
 }
 
 .card-2 {
   background: linear-gradient(rgba(3, 117, 20, 0.8), rgba(7, 76, 4, 0.8)),
-    url(new-image.jpg) no-repeat center center/cover;
+  url(../images/new-image.jpg) no-repeat center center/cover;
 }
 
 .card-3 {
   background: linear-gradient(rgba(221, 9, 9, 0.615), rgba(119, 22, 5, 0.9)),
-    url(new-image.jpg) no-repeat center center/cover;
+  url(../images/new-image.jpg) no-repeat center center/cover;
 }
 
 .cards > h4 {
